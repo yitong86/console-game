@@ -62,7 +62,7 @@ public class Main {
 
 
 }
-
+//just test
 
 //      // when user input 100 then stop.otherwise keep going to enter number,use while loop.
 ////            Scanner scanner = new Scanner(System.in);
